@@ -1,0 +1,201 @@
+﻿  DemoOpencv44Dlg.cpp
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(151,30): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(155,32): warning C4244: '=' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(407,127): warning C4244: 'argument' : conversion de 'double' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(407,90): warning C4244: 'argument' : conversion de 'double' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(408,127): warning C4244: 'argument' : conversion de 'double' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(408,90): warning C4244: 'argument' : conversion de 'double' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(409,122): warning C4244: 'argument' : conversion de 'double' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(409,85): warning C4244: 'argument' : conversion de 'double' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(450,29): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(471,60): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(489,18): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(493,16): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(493,64): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(582,31): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(583,31): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(587,31): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(588,31): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(508,6): warning C4101: 'li' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(508,15): warning C4101: 'k' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(508,18): warning C4101: 'accuracy' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(508,10): warning C4101: 'col' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(733,30): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(734,30): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(738,30): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(739,30): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(649,6): warning C4101: 'li' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(649,15): warning C4101: 'accuracy' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(649,10): warning C4101: 'col' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(884,30): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(885,30): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(889,30): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(890,30): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(795,6): warning C4101: 'li' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(795,15): warning C4101: 'accuracy' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(795,10): warning C4101: 'col' : variable locale non référencée
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(1019,29): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(1020,29): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(1024,29): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\DemoOpencv44\DemoOpencv44Dlg.cpp(1025,29): warning C4244: '=' : conversion de '_Tp' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  DemoOpencv44.vcxproj -> C:\Users\itta_\Documents\visualstudio_project\DemoOpencv412\x64\Debug\DemoOpencv44.exe

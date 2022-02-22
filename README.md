@@ -12,3 +12,5 @@ This repository consists on getting pule rate via a camera using OpenCV, some ma
  To get the pulse rate click on Open, and try not to move for a couple of secondes.
  Feel free to send me a message if you have any issue. I will be more than happy to help you.
  
+ Since this code work on the brightness of the image, you will need maybe to fix one param named Pe. for my face I used 0.055.
+ 
